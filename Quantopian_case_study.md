@@ -1,4 +1,5 @@
 # Quantopian Case Study 
+![logo](https://analyzingalpha.com/assets/images/posts/2019-09-30-quantopian-logo.png)
 ## Introduction
 Since the advent of the internet the "do it yourself" mentality has been growing stronger and stronger. People are constantly researching methodology and are relying less and less on services. People are becoming empowered. They want to make decisions on their own time. Society wants instant gratification. In the past, one would have to go to the library to do research, but now one can Google. One used to call a specialist for specific repairs and now one will immediately search for a "how to" on YouTube. While these inclinations are still pretty generational, they illustrate what the future holds. This mindset is trickling down into every aspect of our lives be it a gift or a curse. One of the most recent buzz worthy industries affected by this mindset is Finance.
 
@@ -31,7 +32,9 @@ Our free community product is used by scientists, developers, and students to le
   - Wicklow Capital
  
   With the above assistance they were able to accumulate a total of $49.5 Million in funding and received Series C funding in 2016. ([CrunchBase](https://www.crunchbase.com/organization/quantopian#section-investors))([Tracxn](https://tracxn.com/d/companies/quantopian.com))
+  
   ***Note:*** *In 2016 Steve Cohen put 250 Million into the firm to be under the direction of algorithms managed by Quantopian and in addition make an investment in Quantopian itself. In February of this year, 2020, Fawcett announced that investment money would be returned due to under performance.* ([Steve Cohen](https://www.reuters.com/article/hedgefunds-cohen-quantopian/steve-cohen-bets-250-million-on-firm-that-uses-algorithms-idUSKCN1071XI))([Under Performance](https://www.bizjournals.com/boston/news/2020/02/20/fintech-firm-quantopian-is-returning-investors.html))
+  
 * One important last thing about the company is that it creates the sense of competition and game-play by actually offering daily and monthly competitions. Successful algorithms are then invested in by Quantopian with a cash prize and may also be invested in by third party banks/funds. ([Quantopian Contest](https://pando.com/2015/03/05/finance-novice-beats-hedge-fund-pros-wins-100k-in-inqugural-quantopian-trading-contest/))  
 
 #### Key Takeaways
